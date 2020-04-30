@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="helloWorld">Привет мир!</string>ъ
+    <string name="helloWorld">Привет мир!</string>
+    <string name="language">Язык</string>
 </resources>
